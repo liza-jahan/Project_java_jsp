@@ -1,0 +1,15 @@
+.navbar {
+    background-color:#6f42c1;
+    padding: 1.5rem 1.5rem;
+}
+.center{
+margin-left: auto;
+margin-right: auto;
+}
+table, th, td {
+    border: 2px solid  black;
+}
+.desing{
+  color: #6f42c1;
+
+}
